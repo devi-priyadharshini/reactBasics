@@ -2,7 +2,6 @@ import React from "react";
 import "../css/travelCard.css";
 
 export default function TravelCard(props) {
-  console.log(props.location);
   return (
     <div>
       <div className="travel--card">
